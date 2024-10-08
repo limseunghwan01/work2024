@@ -6,7 +6,7 @@
 ###### 제목
 
 
-kdlxm :https://limseunghwan01.github.io/
+kdlxm: https://limseunghwan01.github.io/
 
 * * *
 ***
