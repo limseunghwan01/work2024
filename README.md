@@ -6,7 +6,7 @@
 ###### 제목
 
 
-kdlxm: https://limseunghwan01.github.io/
+실습 사이트 : https://limseunghwan01.github.io/
 
 * * *
 ***
